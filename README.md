@@ -33,6 +33,7 @@ The main objectives of this project are:
 # Dataset
 
 ## UCI Adult Census Income Dataset
+dataset link : https://archive.ics.uci.edu/dataset/2/adult
 
 Dataset Characteristics:
 
